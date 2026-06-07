@@ -119,6 +119,21 @@ Repositories such as standards, examples, and validators may be created later ba
 
 For now, we care more about helping contributors submit, become visible, and start discussions than forcing complex templates too early.
 
+## Community Rules Summary
+
+QUANTSKILLS keeps community rules lightweight but clear.
+
+- Respect contributors and keep discussions constructive.
+- Do not submit spam, misleading projects, illegal content, unsafe code, leaked data, or infringing materials.
+- Do not post sensitive information in public Issues, Pull Requests, README files, or repositories.
+- Member-created repositories are Community Projects by default and must not claim official, certified, verified, or endorsed status unless reviewed.
+- Quant projects should clearly state data sources, assumptions, limitations, and risk boundaries.
+- Maintainers may moderate, archive, restrict, transfer, or delete content when necessary.
+
+Read the full rules:
+
+https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md
+
 ## Repository Governance
 
 Members may be allowed to create and maintain their own community projects under the QUANTSKILLS organization.
