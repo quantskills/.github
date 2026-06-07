@@ -118,7 +118,7 @@ For now, we care more about helping contributors submit, become visible, and sta
 
 Members may be allowed to create and maintain their own community projects under the QUANTSKILLS organization.
 
-Repositories created under `github.com/quantskills` are owned by the QUANTSKILLS organization. The project creator may maintain the repository according to the permissions granted to them, but organization owners retain final governance rights.
+Repositories created under `github.com/quantskills` are hosted and governed within the QUANTSKILLS organization. Project creators keep authorship, credit, and contribution history for their work. The project creator may maintain the repository according to the permissions granted to them, while organization owners retain final governance rights.
 
 Member-created repositories are Community Projects by default. They do not automatically represent official QUANTSKILLS validation or endorsement.
 
