@@ -53,6 +53,14 @@ At the early stage, we do not force every contributor into a single fixed templa
 
 > We do not use templates to limit creativity. We use registration and validation to build order.
 
+## Languages
+
+English is the primary language for public repository metadata, titles, summaries, and key documentation, so global contributors and AI Agents can understand and index the project.
+
+We also support Chinese, Japanese, Korean, Spanish, French, German, and other widely used languages for discussions, tutorials, examples, research notes, and community collaboration.
+
+Contributions in any language are welcome when they include enough English context, such as a short English title, summary, or README section.
+
 ## Validation Levels
 
 QUANTSKILLS uses a layered validation model.
