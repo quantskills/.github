@@ -81,24 +81,19 @@ QUANTSKILLS 不只给人看，也给 AI Agent 读取。
 
 让 AI Agent 可以搜索、安装、调用和验证社区里的量化能力。
 
-## 第一阶段计划
+## 当前入口
 
-我们将逐步建设以下仓库：
+组织创建初期，我们先保持轻量，不急于固定 Skill 的形态。
 
-- quantskills/spec：标准说明
-- quantskills/awesome-quant-skills：精选资源清单
-- quantskills/registry：Skill 登记目录
-- quantskills/examples：示例项目
-- quantskills/validator：验证工具
+当前优先建设：
 
-适合新手参与的 good first skill 包括：
+- quantskills/join：社区加入申请入口
+- awesome-quant-skills：量化 Skill、Agent、Strategy 精选清单
+- registry：Skill 登记目录
 
-- moving-average-crossover
-- rsi-signal-audit
-- limit-up-down-detector
-- no-lookahead-checker
-- earnings-factor-template
-- futures-roll-yield
+后续是否建设标准说明、示例项目、验证工具，会根据社区真实贡献和项目形态逐步决定。
+
+我们更关心先让开发者能提交、能被看见、能被讨论，而不是一开始就用复杂模板限制创造力。
 
 ## 最终目标
 
