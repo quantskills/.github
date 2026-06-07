@@ -11,6 +11,7 @@ We help quant developers turn trading experience, research methods, factor model
 - Website: https://quantskills.ai
 - GitHub organization: https://github.com/quantskills
 - Join request: https://github.com/quantskills/join/issues/new?template=join-request.yml
+- Community rules: https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md
 
 `quantskills.ai` is the public website for brand narrative, Skill discovery, and AI Agent-facing entry points.
 
@@ -33,6 +34,10 @@ Apply through the public join request form:
 https://github.com/quantskills/join/issues/new?template=join-request.yml
 
 Join requests are public. Do not include phone numbers, WeChat IDs, email addresses, government IDs, passwords, API keys, or private account credentials.
+
+Please read the community rules before applying:
+
+https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md
 
 ## What We Collect
 
