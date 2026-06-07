@@ -114,6 +114,16 @@ Repositories such as standards, examples, and validators may be created later ba
 
 For now, we care more about helping contributors submit, become visible, and start discussions than forcing complex templates too early.
 
+## Repository Governance
+
+Members may be allowed to create and maintain their own community projects under the QUANTSKILLS organization.
+
+Repositories created under `github.com/quantskills` are owned by the QUANTSKILLS organization. The project creator may maintain the repository according to the permissions granted to them, but organization owners retain final governance rights.
+
+Member-created repositories are Community Projects by default. They do not automatically represent official QUANTSKILLS validation or endorsement.
+
+Organization owners may rename, archive, transfer, restrict access to, or delete repositories when necessary, especially for security issues, legal risk, spam, abandoned projects, naming conflicts, or violations of community rules.
+
 ## Long-Term Goal
 
 If you have a quant method, factor, strategy, tool, or workflow, QUANTSKILLS should help you publish it as a Skill that humans can see, AI Agents can discover, and the community can validate.
