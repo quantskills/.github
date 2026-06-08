@@ -19,8 +19,6 @@ We help quant developers turn trading experience, research methods, factor model
 
 ## Join QUANTSKILLS
 
-Developers join QUANTSKILLS not to contribute free code to someone else's platform, but to turn their own quant capabilities into public assets.
-
 Contributors may gain:
 
 - Visibility: be listed in QUANTSKILLS directories, website pages, curated lists, and community recommendations
