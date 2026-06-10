@@ -1,3 +1,5 @@
+![QUANTSKILLS](assets/quantskills-banner.png)
+
 # QUANTSKILLS
 
 QUANTSKILLS is an open community for Quant Skills, Agents, and Strategies in the AI Agent era.
