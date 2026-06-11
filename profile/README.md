@@ -5,7 +5,7 @@
 **简体中文** | [English](#english)
 
 <img alt="website" src="https://img.shields.io/badge/website-quantskills.ai-1f6feb">
-<img alt="assets" src="https://img.shields.io/badge/assets-Skills%20%C2%B7%20Agents%20%C2%B7%20Strategies-7c3aed">
+<img alt="assets" src="https://img.shields.io/badge/assets-Skills%20%C2%B7%20Agents-7c3aed">
 <img alt="validation" src="https://img.shields.io/badge/validation-Listed%20%E2%86%92%20Runnable%20%E2%86%92%20Verified-2ea043">
 <img alt="join" src="https://img.shields.io/badge/join-%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5-brightgreen">
 
@@ -15,7 +15,7 @@
 
 # 🐼 QUANTSKILLS
 
-QUANTSKILLS 是 AI Agent 时代的开放量化社区，聚焦 **Quant Skills（量化技能）、Agents（智能体）、Strategies（策略）** 三类资产。
+QUANTSKILLS 是 AI Agent 时代的开放量化社区，聚焦 **Quant Skills（量化技能）** 和 **Agents（智能体）** 两类资产。
 
 我们帮助量化开发者把交易经验、研究方法、因子模型和策略代码，转化为**可检索、可安装、可验证、可分享**的标准化资产。
 
@@ -46,11 +46,6 @@ mindmap
       策略审计工作流
       内容生成
       社区问答
-    📈 Strategies 策略
-      策略代码
-      回测证据
-      风险说明
-      使用边界
 ```
 
 ## 🗂️ 社区技能仓库一览
@@ -73,7 +68,7 @@ mindmap
 
 ```mermaid
 flowchart LR
-    A["💡 创建你的<br/>Skill / Agent / Strategy"] --> B["🐙 发布到 GitHub"]
+    A["💡 创建你的<br/>Skill / Agent"] --> B["🐙 发布到 GitHub"]
     B --> C["📮 提交到<br/>QUANTSKILLS Registry"]
     C --> D["🔍 社区评审与验证"]
     D --> E["🌟 曝光 · 分发<br/>AI Agent 可发现"]
@@ -184,7 +179,7 @@ QUANTSKILLS 同时为人类和 AI Agent 设计。我们将逐步建设：
 
 </div>
 
-QUANTSKILLS is an open community for **Quant Skills, Agents, and Strategies** in the AI Agent era.
+QUANTSKILLS is an open community for **Quant Skills and Agents** in the AI Agent era.
 
 We help quant developers turn trading experience, research methods, factor models, and strategy code into standardized assets that can be **searched, installed, validated, and shared**.
 
@@ -201,11 +196,10 @@ We help quant developers turn trading experience, research methods, factor model
 
 ## 🧩 What We Collect
 
-QUANTSKILLS focuses on three types of assets:
+QUANTSKILLS focuses on two types of assets:
 
 - **Skills**: factor calculation, data cleaning, strategy audit, research report replication, report generation, and other reusable capability packages
 - **Agents**: research replication, strategy audit, content generation, community Q&A, and other AI Agent workflows
-- **Strategies**: strategy assets with code, backtest evidence, risk notes, and clear usage boundaries
 
 ## 🗂️ Community Skill Repositories
 
@@ -227,7 +221,7 @@ QUANTSKILLS focuses on three types of assets:
 
 ```mermaid
 flowchart LR
-    A["💡 Create your<br/>Skill / Agent / Strategy"] --> B["🐙 Publish on GitHub"]
+    A["💡 Create your<br/>Skill / Agent"] --> B["🐙 Publish on GitHub"]
     B --> C["📮 Submit to the<br/>QUANTSKILLS Registry"]
     C --> D["🔍 Community review<br/>& validation"]
     D --> E["🌟 Visibility · Distribution<br/>AI Agent discovery"]
