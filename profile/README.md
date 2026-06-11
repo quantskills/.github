@@ -250,19 +250,21 @@ At the early stage, we do not force every contributor into a single fixed templa
 
 ## 📛 Repository Naming
 
-Repositories under the QUANTSKILLS organization should use a lowercase `skill-` or `agent-` prefix.
+Repositories under the QUANTSKILLS organization should use a lowercase `skill-`, `agent-`, or `strategy-` prefix.
 
 - `skill-` is for reusable capabilities, such as factors, strategy templates, data processing, report replication, validation utilities, prompts, examples, or tools.
 - `agent-` is for AI Agents or automated workflows, such as research replication agents, strategy audit agents, data processing agents, review agents, or multi-step task systems.
+- `strategy-` is for strategy assets, especially trading rules, factor strategies, model strategies, portfolio workflows, or PandaAI QuantFlow-generated strategies with validation evidence.
 
 Each repository should include a declaration file at the repository root:
 
 - `SKILL.md` for Skill repositories
 - `AGENT.md` for Agent repositories
+- `STRATEGY.md` for Strategy repositories
 
 The declaration file or project manifest should include upstream metadata such as the QuantSkills organization URL, repository name, repository URL, project type, and collection when applicable.
 
-AI-assisted tools may use repository names, `SKILL.md` / `AGENT.md`, README files, and descriptions to help maintain the public registry. Final listing, recommendation, validation, or official recognition still requires maintainer review.
+AI-assisted tools may use repository names, `SKILL.md` / `AGENT.md` / `STRATEGY.md`, README files, and descriptions to help maintain the public registry. Final listing, recommendation, validation, or official recognition still requires maintainer review.
 
 Read the full repository rules: [COMMUNITY_RULES.md](https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md)
 
