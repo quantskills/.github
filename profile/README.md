@@ -58,6 +58,24 @@ At the early stage, we do not force every contributor into a single fixed templa
 
 > We do not use templates to limit creativity. We use registration and validation to build order.
 
+## Repository Naming
+
+Repositories under the QUANTSKILLS organization should use a lowercase `skill-` or `agent-` prefix.
+
+- `skill-` is for reusable capabilities, such as factors, strategy templates, data processing, report replication, validation utilities, prompts, examples, or tools.
+- `agent-` is for AI Agents or automated workflows, such as research replication agents, strategy audit agents, data processing agents, review agents, or multi-step task systems.
+
+Each repository should include a declaration file at the repository root:
+
+- `SKILL.md` for Skill repositories
+- `AGENT.md` for Agent repositories
+
+AI-assisted tools may use repository names, `SKILL.md` / `AGENT.md`, README files, and descriptions to help maintain the public registry. Final listing, recommendation, validation, or official recognition still requires maintainer review.
+
+Read the full repository rules:
+
+https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md
+
 ## Languages
 
 English is the primary language for public repository metadata, titles, summaries, and key documentation, so global contributors and AI Agents can understand and index the project.
