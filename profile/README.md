@@ -112,11 +112,11 @@ QUANTSKILLS 组织下的仓库应使用小写的 `skill-` 或 `agent-` 前缀。
 每个仓库的根目录应包含一个声明文件：
 
 - Skill 仓库：`SKILL.md`
-- Agent 仓库：`AGENT.md`
+- Agent 仓库：`AGENTS.md`
 
 声明文件或项目清单中应包含上游元数据，例如 QuantSkills 组织 URL、仓库名、仓库 URL、项目类型，以及（如适用）所属合集（collection）。
 
-AI 辅助工具可以使用仓库名、`SKILL.md` / `AGENT.md`、README 与描述信息来协助维护公共注册表。最终的收录、推荐、验证或官方认定，仍需经过维护者评审。
+AI 辅助工具可以使用仓库名、`SKILL.md` / `AGENTS.md`、README 与描述信息来协助维护公共注册表。最终的收录、推荐、验证或官方认定，仍需经过维护者评审。
 
 完整仓库规则见 [COMMUNITY_RULES.md](https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md)。
 
@@ -278,11 +278,11 @@ Repositories under the QUANTSKILLS organization should use a lowercase `skill-` 
 Each repository should include a declaration file at the repository root:
 
 - `SKILL.md` for Skill repositories
-- `AGENT.md` for Agent repositories
+- `AGENTS.md` for Agent repositories
 
 The declaration file or project manifest should include upstream metadata such as the QuantSkills organization URL, repository name, repository URL, project type, and collection when applicable.
 
-AI-assisted tools may use repository names, `SKILL.md` / `AGENT.md`, README files, and descriptions to help maintain the public registry. Final listing, recommendation, validation, or official recognition still requires maintainer review.
+AI-assisted tools may use repository names, `SKILL.md` / `AGENTS.md`, README files, and descriptions to help maintain the public registry. Final listing, recommendation, validation, or official recognition still requires maintainer review.
 
 Read the full repository rules: [COMMUNITY_RULES.md](https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md)
 
