@@ -54,6 +54,9 @@ mindmap
 
 下表与 [registry/INDEX.md](https://github.com/quantskills/registry/blob/main/INDEX.md) 中的 Skill 资产目录保持同步。
 
+<details>
+<summary>显示更多：全部 28 个 Skill 仓库</summary>
+
 | 仓库 | 一句话说明 |
 |---|---|
 | [skill-a-share-stock-dossier](https://github.com/quantskills/skill-a-share-stock-dossier) | 输入一个 A 股代码，输出一份可溯源的中文个股尽调报告：基本面、分红资本运作、股东行为、质押解禁减持风险、资金面，一次查清。 |
@@ -85,9 +88,14 @@ mindmap
 | [skill-ssquant-trader-generator](https://github.com/quantskills/skill-ssquant-trader-generator) | 说一次想法，得到一个可以随时加载的 AI 交易员。 |
 | [skill-x-trader-builder](https://github.com/quantskills/skill-x-trader-builder) | 把任意 X/Twitter 公开交易员的发帖历史，加工成 trader 专属的研究模型 Skill：init-run → 采集 → extract → auto-review → split → evaluate → template → report 九步流水线，从噪... |
 
+</details>
+
 ## 🤖 社区 Agent 仓库一览
 
 下表与 [registry/INDEX.md](https://github.com/quantskills/registry/blob/main/INDEX.md) 中的 Agent 资产目录保持同步。
+
+<details>
+<summary>显示更多：全部 5 个 Agent 仓库</summary>
 
 | 仓库 | 一句话说明 |
 |---|---|
@@ -96,6 +104,8 @@ mindmap
 | [agent-market-regime-monitor](https://github.com/quantskills/agent-market-regime-monitor) | 用 Pandadata 行情、指数、宽度、波动和资金证据判断市场处于趋势、震荡、退潮或风险扩张状态。 |
 | [agent-crowding-risk-monitor](https://github.com/quantskills/agent-crowding-risk-monitor) | 用价格、成交、融资、龙虎榜热度识别抱团、过热、踩踏和去杠杆风险。 |
 | [agent-quantspace](https://github.com/quantskills/agent-quantspace) | 面向 AI 编码代理的量化研究框架，组织数据、技能、策略、回测和报告工作流。 |
+
+</details>
 
 ## 🚀 如何参与
 
@@ -240,6 +250,9 @@ QUANTSKILLS focuses on two types of assets:
 
 This table mirrors the Skill asset directory in [registry/INDEX.md](https://github.com/quantskills/registry/blob/main/INDEX.md).
 
+<details>
+<summary>Show more: all 28 Skill repositories</summary>
+
 | Repository | One-line summary |
 |---|---|
 | [skill-a-share-stock-dossier](https://github.com/quantskills/skill-a-share-stock-dossier) | A-share stock dossier skill that uses Pandadata to produce company, financial, dividend, shareholder, and risk analysis. |
@@ -271,9 +284,14 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-ssquant-trader-generator](https://github.com/quantskills/skill-ssquant-trader-generator) | Trader-generator skill that turns natural-language trading ideas into deployable AI Trader rules, code, and operating plans. |
 | [skill-x-trader-builder](https://github.com/quantskills/skill-x-trader-builder) | Skill-builder workflow for turning public X/Twitter data and user materials into trader-specific research-model skills. |
 
+</details>
+
 ## 🤖 Community Agent Repositories
 
 This table mirrors the Agent asset directory in [registry/INDEX.md](https://github.com/quantskills/registry/blob/main/INDEX.md).
+
+<details>
+<summary>Show more: all 5 Agent repositories</summary>
 
 | Repository | One-line summary |
 |---|---|
@@ -282,6 +300,8 @@ This table mirrors the Agent asset directory in [registry/INDEX.md](https://gith
 | [agent-market-regime-monitor](https://github.com/quantskills/agent-market-regime-monitor) | Monitor market regime from Pandadata index, breadth, volatility, and funding evidence. |
 | [agent-crowding-risk-monitor](https://github.com/quantskills/agent-crowding-risk-monitor) | Monitor crowded-trade risk from Pandadata price, turnover, margin, and LHB heat evidence. |
 | [agent-quantspace](https://github.com/quantskills/agent-quantspace) | AI-native quantitative research framework for reusable skills, strategy workflows, backtests, and reports. |
+
+</details>
 
 ## 🚀 How to Participate
 
