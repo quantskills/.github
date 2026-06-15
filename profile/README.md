@@ -13,7 +13,7 @@
 
 <a id="chinese"></a>
 
-# 🐼 QUANTSKILLS
+# <img src="assets/quantskills-mark.png" alt="QUANTSKILLS mark" width="32" height="32"> QUANTSKILLS
 
 QUANTSKILLS 是 AI Agent 时代的开放量化社区，聚焦 **Quant Skills（量化技能）** 和 **Agents（智能体）** 两类资产。
 
@@ -184,7 +184,7 @@ QUANTSKILLS 同时为人类和 AI Agent 设计。我们将逐步建设：
 
 <a id="english"></a>
 
-# 🐼 QUANTSKILLS (English)
+# <img src="assets/quantskills-mark.png" alt="QUANTSKILLS mark" width="32" height="32"> QUANTSKILLS (English)
 
 <div align="center">
 
