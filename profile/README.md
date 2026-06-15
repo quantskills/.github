@@ -54,9 +54,6 @@ mindmap
 
 下表与 [registry/INDEX.md](https://github.com/quantskills/registry/blob/main/INDEX.md) 中的 Skill 资产目录保持同步。
 
-<details>
-<summary>显示更多：全部 28 个 Skill 仓库</summary>
-
 | 仓库 | 一句话说明 |
 |---|---|
 | [skill-a-share-stock-dossier](https://github.com/quantskills/skill-a-share-stock-dossier) | 输入一个 A 股代码，输出一份可溯源的中文个股尽调报告：基本面、分红资本运作、股东行为、质押解禁减持风险、资金面，一次查清。 |
@@ -64,6 +61,12 @@ mindmap
 | [skill-gaetano-crux-capital-research-model](https://github.com/quantskills/skill-gaetano-crux-capital-research-model) | 基于公开资料复刻 Gaetano / Crux Capital 的研究方法：把公开 X 帖子、公开 Substack 页面、财报与技术论文，拆解成「光子堆栈定位 → chokepoint 识别 → 证据分级 → 催化与风险跟踪」的结构化研究模型。 |
 | [skill-index-valuation-rotation](https://github.com/quantskills/skill-index-valuation-rotation) | 指数估值与行业轮动分析：PE/PB 分位、估值温度、宽基定投参考、行业动量排名与轮动摘要。 |
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | 期权波动率分析：期权链快照、隐含波动率、历史/实现波动率、IV 分位、期限结构、偏度与波动率溢价报告。 |
+
+<details>
+<summary>显示更多：剩余 23 个 Skill 仓库</summary>
+
+| 仓库 | 一句话说明 |
+|---|---|
 | [skill-serenity-research-model](https://github.com/quantskills/skill-serenity-research-model) | 从 Serenity（@aleabitoreddit）的公开 X 帖子里逆向研究逻辑：extract → clean → auto-review → evaluate → report 五段流水线，把帖子拆成最小信号单元，并用价格数据回看公开 call 的后续表现。 |
 | [skill-stock-screener](https://github.com/quantskills/skill-stock-screener) | 自然语言 A 股选股：把分红、估值、质押、北向、行业概念、财务增长、股东变化等条件转成可追溯 Pandadata 筛选。 |
 | [skill-pandadata-api](https://github.com/quantskills/skill-pandadata-api) | 把自然语言数据需求，精准路由到正确的 pandadata API，并生成可直接运行的 Python 调用。 |
@@ -94,9 +97,6 @@ mindmap
 
 下表与 [registry/INDEX.md](https://github.com/quantskills/registry/blob/main/INDEX.md) 中的 Agent 资产目录保持同步。
 
-<details>
-<summary>显示更多：全部 5 个 Agent 仓库</summary>
-
 | 仓库 | 一句话说明 |
 |---|---|
 | [agent-correlation-break-research](https://github.com/quantskills/agent-correlation-break-research) | 用多股票与指数收益相关性变化识别风格切换、组合分散失效和结构性行情变化。 |
@@ -104,8 +104,6 @@ mindmap
 | [agent-market-regime-monitor](https://github.com/quantskills/agent-market-regime-monitor) | 用 Pandadata 行情、指数、宽度、波动和资金证据判断市场处于趋势、震荡、退潮或风险扩张状态。 |
 | [agent-crowding-risk-monitor](https://github.com/quantskills/agent-crowding-risk-monitor) | 用价格、成交、融资、龙虎榜热度识别抱团、过热、踩踏和去杠杆风险。 |
 | [agent-quantspace](https://github.com/quantskills/agent-quantspace) | 面向 AI 编码代理的量化研究框架，组织数据、技能、策略、回测和报告工作流。 |
-
-</details>
 
 ## 🚀 如何参与
 
@@ -250,9 +248,6 @@ QUANTSKILLS focuses on two types of assets:
 
 This table mirrors the Skill asset directory in [registry/INDEX.md](https://github.com/quantskills/registry/blob/main/INDEX.md).
 
-<details>
-<summary>Show more: all 28 Skill repositories</summary>
-
 | Repository | One-line summary |
 |---|---|
 | [skill-a-share-stock-dossier](https://github.com/quantskills/skill-a-share-stock-dossier) | A-share stock dossier skill that uses Pandadata to produce company, financial, dividend, shareholder, and risk analysis. |
@@ -260,6 +255,12 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-gaetano-crux-capital-research-model](https://github.com/quantskills/skill-gaetano-crux-capital-research-model) | Research-model skill for public-material analysis of photonics, optical networking, Physical AI, and AI infrastructure themes. |
 | [skill-index-valuation-rotation](https://github.com/quantskills/skill-index-valuation-rotation) | Index valuation and A-share industry rotation skill for PE/PB percentiles, valuation temperature, broad-index references, momentum ranks, and rotation summaries. |
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | Options volatility analyst skill for option chains, implied volatility, realized volatility, IV percentiles, term structure, skew, and volatility-premium reports. |
+
+<details>
+<summary>Show more: remaining 23 Skill repositories</summary>
+
+| Repository | One-line summary |
+|---|---|
 | [skill-serenity-research-model](https://github.com/quantskills/skill-serenity-research-model) | Research-model skill for reconstructing Serenity-style AI, semiconductor, and supply-chain theses from public posts and datasets. |
 | [skill-stock-screener](https://github.com/quantskills/skill-stock-screener) | Natural-language A-share stock screener skill that maps fundamentals, dividends, valuation, pledges, northbound flows, sectors, holders, and risk filters to Pandadata calls. |
 | [skill-pandadata-api](https://github.com/quantskills/skill-pandadata-api) | Pandadata and panda_data Python SDK reference skill for selecting, calling, and troubleshooting quant data APIs. |
@@ -290,9 +291,6 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 
 This table mirrors the Agent asset directory in [registry/INDEX.md](https://github.com/quantskills/registry/blob/main/INDEX.md).
 
-<details>
-<summary>Show more: all 5 Agent repositories</summary>
-
 | Repository | One-line summary |
 |---|---|
 | [agent-correlation-break-research](https://github.com/quantskills/agent-correlation-break-research) | Detect correlation breaks, style shifts, and diversification stress from Pandadata return evidence. |
@@ -300,8 +298,6 @@ This table mirrors the Agent asset directory in [registry/INDEX.md](https://gith
 | [agent-market-regime-monitor](https://github.com/quantskills/agent-market-regime-monitor) | Monitor market regime from Pandadata index, breadth, volatility, and funding evidence. |
 | [agent-crowding-risk-monitor](https://github.com/quantskills/agent-crowding-risk-monitor) | Monitor crowded-trade risk from Pandadata price, turnover, margin, and LHB heat evidence. |
 | [agent-quantspace](https://github.com/quantskills/agent-quantspace) | AI-native quantitative research framework for reusable skills, strategy workflows, backtests, and reports. |
-
-</details>
 
 ## 🚀 How to Participate
 
