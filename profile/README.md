@@ -13,9 +13,11 @@
 
 <a id="chinese"></a>
 
-# <img src="assets/quantskills-mark.png" alt="QUANTSKILLS mark" width="32" height="32"> QUANTSKILLS
+# <img src="assets/quantskills-mark.png" alt="QUANTSKILLS mark" width="30" height="30" align="absmiddle"> QUANTSKILLS
 
 QUANTSKILLS 是 AI Agent 时代的开放量化社区，聚焦 **Quant Skills（量化技能）** 和 **Agents（智能体）** 两类资产。
+
+QUANTSKILLS 由 PandaAI 发起，连接中文量化开发者与全球 AI 量化社区。PandaAI 在国内通过 [PandaAI Quant](https://www.pandaaiquant.com/) 服务本土用户，在国际通过 [TQX.ai](https://www.tqx.ai/) 面向全球开发者与研究者。
 
 我们帮助量化开发者把交易经验、研究方法、因子模型和策略代码，转化为**可检索、可安装、可验证、可分享**的标准化资产。
 
@@ -184,7 +186,7 @@ QUANTSKILLS 同时为人类和 AI Agent 设计。我们将逐步建设：
 
 <a id="english"></a>
 
-# <img src="assets/quantskills-mark.png" alt="QUANTSKILLS mark" width="32" height="32"> QUANTSKILLS (English)
+# <img src="assets/quantskills-mark.png" alt="QUANTSKILLS mark" width="30" height="30" align="absmiddle"> QUANTSKILLS (English)
 
 <div align="center">
 
@@ -193,6 +195,8 @@ QUANTSKILLS 同时为人类和 AI Agent 设计。我们将逐步建设：
 </div>
 
 QUANTSKILLS is an open community for **Quant Skills and Agents** in the AI Agent era.
+
+Initiated by PandaAI, QUANTSKILLS connects Chinese quant developers with the global AI quant community. PandaAI serves local users through [PandaAI Quant](https://www.pandaaiquant.com/) and international developers and researchers through [TQX.ai](https://www.tqx.ai/).
 
 We help quant developers turn trading experience, research methods, factor models, and strategy code into standardized assets that can be **searched, installed, validated, and shared**.
 
