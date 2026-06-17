@@ -64,7 +64,7 @@ mindmap
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | 期权波动率分析：期权链快照、隐含波动率、历史/实现波动率、IV 分位、期限结构、偏度与波动率溢价报告。 |
 
 <details>
-<summary>显示更多：剩余 28 个 Skill 仓库</summary>
+<summary>显示更多：剩余 26 个 Skill 仓库</summary>
 
 | 仓库 | 一句话说明 |
 |---|---|
@@ -82,11 +82,9 @@ mindmap
 | [skill-quant-research-replication](https://github.com/quantskills/skill-quant-research-replication) | 搜索或接收量化论文、研报、PDF、网页、文本材料，产出一套完整的研究复现交付包：全文翻译 → 因子公式复现 → 有效性验证 → 策略代码 → 真实本地回测 → 交付摘要。 |
 | [skill-report-replication](https://github.com/quantskills/skill-report-replication) | 把一篇量化研报、论文、PDF、网页或文本材料，转化为完整的研究复现交付包：全文翻译 → 因子公式复现 → 有效性验证 → 策略代码 → 真实本地回测 → 交付摘要。 |
 | [skill-backtest](https://github.com/quantskills/skill-backtest) | 不是回测框架，而是截面多头回测的标准协议：T+1 开盘成交、Top 等权、双边 15bp、涨跌停剔除、四联诊断图、5 项健康度自检。 |
-| [skill-doc-to-alphas](https://github.com/quantskills/skill-doc-to-alphas) | 把研报、论文、制度文档或研究笔记拆成可执行的 alpha 假设、验证步骤与因子候选，服务后续研究与实现。 |
 | [skill-factor-debug](https://github.com/quantskills/skill-factor-debug) | 不是 IDE 调试器，而是因子崩溃 / 失效 / 数值异常的诊断手册：按"症状 → 候选病因 → 验证手段"组织的 9 类速查表，专治"因子跑挂"和"看似太好怀疑有 bug"。 |
 | [skill-factor-evaluate](https://github.com/quantskills/skill-factor-evaluate) | 不是回测引擎，而是给单个因子打综合分的评价 Skill：双 IC + Sharpe + MDD + 单调性 + 换手 → 归一加权主分。 |
 | [skill-factormad-debate-factor-mining](https://github.com/quantskills/skill-factormad-debate-factor-mining) | FactorMAD 多智能体辩论式因子挖掘 Skill，用公开假设、代码生成与验证循环探索股票 alpha 因子。 |
-| [skill-factormad-factor-debugging](https://github.com/quantskills/skill-factormad-factor-debugging) | 从 FactorMAD 抽取的因子调试 Skill，用于验证、修复、评分并导出代码型股票 alpha 因子。 |
 | [skill-factor-mine](https://github.com/quantskills/skill-factor-mine) | 不是因子库，而是因子挖掘的工作流 SOP：把"加一个新因子"这件事拆成可重复、可归因、可回滚的标准动作。 |
 | [skill-factor-review](https://github.com/quantskills/skill-factor-review) | 不是单因子评价，而是因子库整体复盘 Skill：扫描实验日志 + 因子卡，输出三层报告（量化盘点 + 结构分析 + 研究建议），回答"已经做了什么、最优在哪、下一步该挖什么"。 |
 | [skill-ic-analysis](https://github.com/quantskills/skill-ic-analysis) | 不是评分系统，而是IC 多维诊断 Skill：双 IC 对照 + IC 衰减曲线 + 子样本切片 + Top 篮 Jaccard + 时序累计图。回答"在哪类股票/什么周期上有效"。 |
@@ -272,7 +270,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | Options volatility analyst skill for option chains, implied volatility, realized volatility, IV percentiles, term structure, skew, and volatility-premium reports. |
 
 <details>
-<summary>Show more: remaining 28 Skill repositories</summary>
+<summary>Show more: remaining 26 Skill repositories</summary>
 
 | Repository | One-line summary |
 |---|---|
@@ -290,11 +288,9 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-quant-research-replication](https://github.com/quantskills/skill-quant-research-replication) | Quant research replication skill for source discovery, formula reconstruction, Chinese summaries, validation, and deliverables. |
 | [skill-report-replication](https://github.com/quantskills/skill-report-replication) | Quant report replication skill that turns papers or reports into Chinese translations, factor formulas, validation reports, and strategy assets. |
 | [skill-backtest](https://github.com/quantskills/skill-backtest) | Standard cross-sectional long-only backtest protocol with T+1 execution, fees, limit filters, NAV curves, IC, drawdown, and diagnostic charts. |
-| [skill-doc-to-alphas](https://github.com/quantskills/skill-doc-to-alphas) | Skill for turning reports, papers, rulebooks, or notes into executable alpha hypotheses, validation steps, and factor candidates. |
 | [skill-factor-debug](https://github.com/quantskills/skill-factor-debug) | Factor debugging playbook for NaNs, signal validation failures, look-ahead bias, horizon mismatch, checksum drift, and correlation violations. |
 | [skill-factor-evaluate](https://github.com/quantskills/skill-factor-evaluate) | Single-factor evaluation skill covering rank IC, Pearson IC, Sharpe, drawdown, monotonicity, turnover, and composite scoring. |
 | [skill-factormad-debate-factor-mining](https://github.com/quantskills/skill-factormad-debate-factor-mining) | FactorMAD multi-agent debate skill for exploring stock alpha factors through public hypotheses, code generation, and validation loops. |
-| [skill-factormad-factor-debugging](https://github.com/quantskills/skill-factormad-factor-debugging) | Factor debugging skill extracted from FactorMAD for validating, repairing, scoring, and exporting code-based stock alpha factors. |
 | [skill-factor-mine](https://github.com/quantskills/skill-factor-mine) | Disciplined factor-mining workflow for hypothesis design, implementation, validation, iteration notes, acceptance, and rollback decisions. |
 | [skill-factor-review](https://github.com/quantskills/skill-factor-review) | Factor-library review skill for experiment logs, acceptance rates, score dynamics, factor-family structure, correlations, and research recommendations. |
 | [skill-ic-analysis](https://github.com/quantskills/skill-ic-analysis) | Multidimensional IC diagnostics for rank versus Pearson IC, IC decay, subsample IC, top-basket stability, and cumulative IC timelines. |
