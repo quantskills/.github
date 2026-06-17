@@ -32,6 +32,14 @@ QUANTSKILLS 由 PandaAI 发起，连接中文量化开发者与全球 AI 量化�
 | 📝 加入申请 | [提交 Join Request](https://github.com/quantskills/join/issues/new?template=join-request.yml) | 公开 Issue 表单申请加入 |
 | 📜 社区规则 | [COMMUNITY_RULES.md](https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md) | 申请前请先阅读 |
 
+## 🐼 PandaAI 社群
+
+<div align="center">
+  <img src="assets/pandaai-community-qr.jpg" alt="PandaAI 社群二维码" width="220">
+  <br>
+  <sub>扫码加入 PandaAI 社群，交流 QUANTSKILLS 技能、Agent 工作流与量化研究实践。</sub>
+</div>
+
 ## 🧩 我们收录什么
 
 ```mermaid

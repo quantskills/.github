@@ -9,6 +9,14 @@
 
 社区介绍与加入方式请直接访问组织主页，或前往 [quantskills/join](https://github.com/quantskills/join) 提交加入申请。
 
+## 🐼 PandaAI / QUANTSKILLS 社群
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quantskills/.github/main/profile/assets/pandaai-community-qr.jpg" alt="PandaAI 社群二维码" width="220">
+  <br>
+  <sub>扫码加入 PandaAI 社群，交流 QUANTSKILLS 技能、Agent 工作流与量化研究实践。</sub>
+</div>
+
 ---
 
 <a id="english"></a>
