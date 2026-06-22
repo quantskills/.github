@@ -64,7 +64,7 @@ mindmap
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | 期权波动率分析：期权链快照、隐含波动率、历史/实现波动率、IV 分位、期限结构、偏度与波动率溢价报告。 |
 
 <details>
-<summary>显示更多：剩余 26 个 Skill 仓库</summary>
+<summary>显示更多：剩余 27 个 Skill 仓库</summary>
 
 | 仓库 | 一句话说明 |
 |---|---|
@@ -93,6 +93,7 @@ mindmap
 | [skill-ssquant-trader-generator](https://github.com/quantskills/skill-ssquant-trader-generator) | 说一次想法，得到一个可以随时加载的 AI 交易员。 |
 | [skill-template](https://github.com/quantskills/skill-template) | QUANTSKILLS 的 skill-* 模板仓库，用于初始化带 SKILL.md、README、许可与基础适配文件的技能项目。 |
 | [skill-time-series-analysis](https://github.com/quantskills/skill-time-series-analysis) | 面向时间序列分析任务的 Skill，聚焦时间序列特征检查、统计诊断与研究流程组织。 |
+| [skill-xingtai-catcher](https://github.com/quantskills/skill-xingtai-catcher) | 用文字描述、K 线截图或手绘走势，在 A 股和期货里查找相似形态，并返回候选标的、评分与结果页。 |
 | [skill-x-trader-builder](https://github.com/quantskills/skill-x-trader-builder) | 把任意 X/Twitter 公开交易员的发帖历史，加工成 trader 专属的研究模型 Skill：init-run → 采集 → extract → auto-review → split → evaluate → template → report 九步流水线，从噪... |
 
 </details>
@@ -270,7 +271,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | Options volatility analyst skill for option chains, implied volatility, realized volatility, IV percentiles, term structure, skew, and volatility-premium reports. |
 
 <details>
-<summary>Show more: remaining 26 Skill repositories</summary>
+<summary>Show more: remaining 27 Skill repositories</summary>
 
 | Repository | One-line summary |
 |---|---|
@@ -299,6 +300,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-ssquant-trader-generator](https://github.com/quantskills/skill-ssquant-trader-generator) | Trader-generator skill that turns natural-language trading ideas into deployable AI Trader rules, code, and operating plans. |
 | [skill-template](https://github.com/quantskills/skill-template) | Template repository for initializing QuantSkills skill projects with SKILL.md, README files, licensing, and baseline adapters. |
 | [skill-time-series-analysis](https://github.com/quantskills/skill-time-series-analysis) | Time-series analysis skill focused on feature inspection, statistical diagnostics, and research workflow organization. |
+| [skill-xingtai-catcher](https://github.com/quantskills/skill-xingtai-catcher) | Pattern-search skill for finding similar A-share stock and futures K-line setups from text, screenshots, or hand drawings, with scored candidates and result links. |
 | [skill-x-trader-builder](https://github.com/quantskills/skill-x-trader-builder) | Skill-builder workflow for turning public X/Twitter data and user materials into trader-specific research-model skills. |
 
 </details>
