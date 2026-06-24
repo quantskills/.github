@@ -78,6 +78,9 @@ mindmap
 | [skill-quant-factor-volume-stat-alpha](https://github.com/quantskills/skill-quant-factor-volume-stat-alpha) | 量能、量价和统计排序类因子库：216 个独立 OHLCV 因子 Skill，真实行情验证 216/216 全部通过。 |
 | [skill-event-risk-alert](https://github.com/quantskills/skill-event-risk-alert) | A 股持仓和自选股事件风险预警：解禁、质押、减持、ST、业绩预告、审计意见等事件扫描与可追溯告警报告。 |
 | [skill-factor-alpha191-alpha101](https://github.com/quantskills/skill-factor-alpha191-alpha101) | 参考 JoinQuant 公式批量计算 Alpha101 与 Alpha191 因子值，输出宽表 CSV 与跳过项摘要，供后续研究和验证使用。 |
+| [skill-factor-blend](https://github.com/quantskills/skill-factor-blend) | 多因子信号合成 Skill：对已评估因子做去冗余、权重合成与复评估，输出组合信号与诊断报告。 |
+| [skill-factor-decay](https://github.com/quantskills/skill-factor-decay) | 因子衰减分析 Skill：比较不同持有期的 IC、换手与分组收益衰减，用于判断信号寿命与再平衡频率。 |
+| [skill-factor-orthogonalize](https://github.com/quantskills/skill-factor-orthogonalize) | 因子正交化 Skill：按日截面剥离行业、市值、风格和既有因子暴露，输出残差信号与暴露诊断。 |
 | [skill-macro-monitor](https://github.com/quantskills/skill-macro-monitor) | 把“查 CPI”“本周有什么经济数据”“钢铁行业景气度怎么样”这类请求，路由到正确的 Pandadata getmacro 接口，输出带数据时效标注的中文宏观分析与定期监控。 |
 | [skill-market-daily-review](https://github.com/quantskills/skill-market-daily-review) | 收盘后一句话生成 A 股当日复盘：指数与估值、市场宽度、行业概念热点、龙虎榜、大宗、两融、北向 —— 每个数字可溯源，支持定时自动生成。 |
 | [skill-paper-replication](https://github.com/quantskills/skill-paper-replication) | 把一篇量化金融论文（arXiv 或本地 PDF），变成一套可运行、可审计的复现实验：检索 → 提取 → 回测 → 图表 → 指标对照，全程框架无关。 |
@@ -287,6 +290,9 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-quant-factor-volume-stat-alpha](https://github.com/quantskills/skill-quant-factor-volume-stat-alpha) | Volume, volume-price, ranking, and statistical OHLCV alpha factor library with 216 factor Skills validated on real market data. |
 | [skill-event-risk-alert](https://github.com/quantskills/skill-event-risk-alert) | A-share event-risk alert skill for watchlists, holdings, unlocks, pledges, reductions, ST changes, forecasts, audit opinions, and traceable reports. |
 | [skill-factor-alpha191-alpha101](https://github.com/quantskills/skill-factor-alpha191-alpha101) | Factor-library skill for computing Alpha101 and Alpha191 values from long-form OHLCV CSV data, with wide CSV outputs and skipped-factor summaries for downstream research. |
+| [skill-factor-blend](https://github.com/quantskills/skill-factor-blend) | Multi-factor blending skill for deduplicating evaluated signals, combining weights, and re-evaluating one composite signal with diagnostics. |
+| [skill-factor-decay](https://github.com/quantskills/skill-factor-decay) | Factor-decay analysis skill for comparing IC, turnover, and group-return decay across holding horizons to judge signal shelf life. |
+| [skill-factor-orthogonalize](https://github.com/quantskills/skill-factor-orthogonalize) | Factor-orthogonalization skill for stripping industry, size, style, and legacy-factor exposures from daily cross-sectional signals. |
 | [skill-macro-monitor](https://github.com/quantskills/skill-macro-monitor) | Macro monitoring skill for Pandadata macro data, economic calendars, industry prosperity, and high-frequency signals. |
 | [skill-market-daily-review](https://github.com/quantskills/skill-market-daily-review) | A-share end-of-day review skill covering indexes, valuation, breadth, sentiment, sectors, themes, and capital-flow clues. |
 | [skill-paper-replication](https://github.com/quantskills/skill-paper-replication) | Framework-neutral quantitative paper replication skill for research scripts, backtests, charts, and auditable outputs. |
