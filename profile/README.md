@@ -4,10 +4,10 @@
 
 **简体中文** | [English](#english)
 
-<img alt="website" src="https://img.shields.io/badge/website-quantskills.ai-1f6feb">
-<img alt="assets" src="https://img.shields.io/badge/assets-Skills%20%C2%B7%20Agents-7c3aed">
-<img alt="validation" src="https://img.shields.io/badge/validation-Listed%20%E2%86%92%20Runnable%20%E2%86%92%20Verified-2ea043">
-<img alt="join" src="https://img.shields.io/badge/join-%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5-brightgreen">
+<a href="https://quantskills.ai"><img alt="website" src="https://img.shields.io/badge/website-quantskills.ai-1f6feb"></a>
+<a href="https://github.com/quantskills"><img alt="assets" src="https://img.shields.io/badge/assets-Skills%20%C2%B7%20Agents-7c3aed"></a>
+<a href="https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md"><img alt="validation" src="https://img.shields.io/badge/validation-Listed%20%E2%86%92%20Runnable%20%E2%86%92%20Verified-2ea043"></a>
+<a href="https://github.com/quantskills/join/issues/new?template=join-request.yml"><img alt="join" src="https://img.shields.io/badge/join-%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5-brightgreen"></a>
 
 </div>
 
