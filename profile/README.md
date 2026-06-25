@@ -5,7 +5,7 @@
 **简体中文** | [English](#english)
 
 <a href="https://quantskills.ai"><img alt="website" src="https://img.shields.io/badge/website-quantskills.ai-1f6feb"></a>
-<a href="https://github.com/quantskills"><img alt="assets" src="https://img.shields.io/badge/assets-Skills%20%C2%B7%20Agents-7c3aed"></a>
+<a href="https://github.com/quantskills/quantskills"><img alt="assets" src="https://img.shields.io/badge/assets-Skills%20%C2%B7%20Agents-7c3aed"></a>
 <a href="https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md"><img alt="validation" src="https://img.shields.io/badge/validation-Listed%20%E2%86%92%20Runnable%20%E2%86%92%20Verified-2ea043"></a>
 <a href="https://github.com/quantskills/join/issues/new?template=join-request.yml"><img alt="join" src="https://img.shields.io/badge/join-%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5-brightgreen"></a>
 
@@ -28,7 +28,7 @@ QUANTSKILLS 由 PandaAI 发起，连接中文量化开发者与全球 AI 量化�
 | 入口 | 链接 | 说明 |
 |---|---|---|
 | 🌐 官网 | https://quantskills.ai | 品牌叙事、Skill 发现、AI Agent 入口 |
-| 🐙 GitHub 组织 | https://github.com/quantskills | 仓库、Issue、PR、社区评审与项目治理 |
+| 🧭 资产导航 | [quantskills/quantskills](https://github.com/quantskills/quantskills) | Skill、因子、Agent 与组织资源的一站式可点击索引 |
 | 📝 加入申请 | [提交 Join Request](https://github.com/quantskills/join/issues/new?template=join-request.yml) | 公开 Issue 表单申请加入 |
 | 📜 社区规则 | [COMMUNITY_RULES.md](https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md) | 申请前请先阅读 |
 
@@ -252,7 +252,7 @@ We help quant developers turn trading experience, research methods, factor model
 | Entry | Link | Notes |
 |---|---|---|
 | 🌐 Website | https://quantskills.ai | Brand narrative, Skill discovery, AI Agent-facing entry points |
-| 🐙 GitHub org | https://github.com/quantskills | Repositories, Issues, PRs, community review, governance |
+| 🧭 Asset navigator | [quantskills/quantskills](https://github.com/quantskills/quantskills) | One-stop clickable index for Skills, factors, Agents, and organization resources |
 | 📝 Join request | [Open a Join Request](https://github.com/quantskills/join/issues/new?template=join-request.yml) | Public issue-form application |
 | 📜 Community rules | [COMMUNITY_RULES.md](https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md) | Please read before applying |
 
