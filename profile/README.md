@@ -65,7 +65,7 @@ mindmap
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | 期权波动率分析：期权链快照、隐含波动率、历史/实现波动率、IV 分位、期限结构、偏度与波动率溢价报告。 |
 
 <details>
-<summary>显示更多：剩余 31 个 Skill 仓库</summary>
+<summary>显示更多：剩余 32 个 Skill 仓库</summary>
 
 | 仓库 | 一句话说明 |
 |---|---|
@@ -81,6 +81,7 @@ mindmap
 | [skill-factor-blend](https://github.com/quantskills/skill-factor-blend) | 多因子信号合成 Skill：对已评估因子做去冗余、权重合成与复评估，输出组合信号与诊断报告。 |
 | [skill-factor-decay](https://github.com/quantskills/skill-factor-decay) | 因子衰减分析 Skill：比较不同持有期的 IC、换手与分组收益衰减，用于判断信号寿命与再平衡频率。 |
 | [skill-factor-orthogonalize](https://github.com/quantskills/skill-factor-orthogonalize) | 因子正交化 Skill：按日截面剥离行业、市值、风格和既有因子暴露，输出残差信号与暴露诊断。 |
+| [skill-factor-optimize](https://github.com/quantskills/skill-factor-optimize) | 因子优化 Skill：对已有股票或期货因子做参数扫描、组件消融和核心版本增强，输出指标对比、稳健性讨论与是否替换原因子的结论。 |
 | [skill-macro-monitor](https://github.com/quantskills/skill-macro-monitor) | 把“查 CPI”“本周有什么经济数据”“钢铁行业景气度怎么样”这类请求，路由到正确的 Pandadata getmacro 接口，输出带数据时效标注的中文宏观分析与定期监控。 |
 | [skill-market-daily-review](https://github.com/quantskills/skill-market-daily-review) | 收盘后一句话生成 A 股当日复盘：指数与估值、市场宽度、行业概念热点、龙虎榜、大宗、两融、北向 —— 每个数字可溯源，支持定时自动生成。 |
 | [skill-paper-replication](https://github.com/quantskills/skill-paper-replication) | 把一篇量化金融论文（arXiv 或本地 PDF），变成一套可运行、可审计的复现实验：检索 → 提取 → 回测 → 图表 → 指标对照，全程框架无关。 |
@@ -277,7 +278,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | Options volatility analyst skill for option chains, implied volatility, realized volatility, IV percentiles, term structure, skew, and volatility-premium reports. |
 
 <details>
-<summary>Show more: remaining 31 Skill repositories</summary>
+<summary>Show more: remaining 32 Skill repositories</summary>
 
 | Repository | One-line summary |
 |---|---|
@@ -293,6 +294,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-factor-blend](https://github.com/quantskills/skill-factor-blend) | Multi-factor blending skill for deduplicating evaluated signals, combining weights, and re-evaluating one composite signal with diagnostics. |
 | [skill-factor-decay](https://github.com/quantskills/skill-factor-decay) | Factor-decay analysis skill for comparing IC, turnover, and group-return decay across holding horizons to judge signal shelf life. |
 | [skill-factor-orthogonalize](https://github.com/quantskills/skill-factor-orthogonalize) | Factor-orthogonalization skill for stripping industry, size, style, and legacy-factor exposures from daily cross-sectional signals. |
+| [skill-factor-optimize](https://github.com/quantskills/skill-factor-optimize) | Factor-optimization skill for sweeping parameters, running component ablations, and refining existing stock or futures factors with a keep-or-replace conclusion. |
 | [skill-macro-monitor](https://github.com/quantskills/skill-macro-monitor) | Macro monitoring skill for Pandadata macro data, economic calendars, industry prosperity, and high-frequency signals. |
 | [skill-market-daily-review](https://github.com/quantskills/skill-market-daily-review) | A-share end-of-day review skill covering indexes, valuation, breadth, sentiment, sectors, themes, and capital-flow clues. |
 | [skill-paper-replication](https://github.com/quantskills/skill-paper-replication) | Framework-neutral quantitative paper replication skill for research scripts, backtests, charts, and auditable outputs. |
