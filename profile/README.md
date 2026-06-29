@@ -116,6 +116,7 @@ mindmap
 | [agent-crowding-risk-monitor](https://github.com/quantskills/agent-crowding-risk-monitor) | 用价格、成交、融资、龙虎榜热度识别抱团、过热、踩踏和去杠杆风险。 |
 | [agent-quantspace](https://github.com/quantskills/agent-quantspace) | 面向 AI 编码代理的量化研究框架，组织数据、技能、策略、回测和报告工作流。 |
 | [agent-template](https://github.com/quantskills/agent-template) | QUANTSKILLS 的 agent-* 模板仓库，用于初始化带 AGENTS.md、README 与基础适配文件的 Agent 项目。 |
+| [agent-for-liangshuyuan-tasks](https://github.com/quantskills/agent-for-liangshuyuan-tasks) | 量枢学院多 Agent 协作框架，支持任务需求分析、路由、开发、测试和发布流程自动化。 |
 
 ## 🚀 如何参与
 
@@ -329,6 +330,7 @@ This table mirrors the Agent asset directory in [registry/INDEX.md](https://gith
 | [agent-crowding-risk-monitor](https://github.com/quantskills/agent-crowding-risk-monitor) | Monitor crowded-trade risk from Pandadata price, turnover, margin, and LHB heat evidence. |
 | [agent-quantspace](https://github.com/quantskills/agent-quantspace) | AI-native quantitative research framework for reusable skills, strategy workflows, backtests, and reports. |
 | [agent-template](https://github.com/quantskills/agent-template) | Template repository for initializing QuantSkills agent projects with AGENTS.md, README files, and baseline adapters. |
+| [agent-for-liangshuyuan-tasks](https://github.com/quantskills/agent-for-liangshuyuan-tasks) | Multi-agent collaboration framework for Liangshu Academy tasks, covering analysis, routing, development, testing, and publishing workflows. |
 
 ## 🚀 How to Participate
 
