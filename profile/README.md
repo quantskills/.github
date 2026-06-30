@@ -65,7 +65,7 @@ mindmap
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | 期权波动率分析：期权链快照、隐含波动率、历史/实现波动率、IV 分位、期限结构、偏度与波动率溢价报告。 |
 
 <details>
-<summary>显示更多：剩余 32 个 Skill 仓库</summary>
+<summary>显示更多：剩余 35 个 Skill 仓库</summary>
 
 | 仓库 | 一句话说明 |
 |---|---|
@@ -101,6 +101,9 @@ mindmap
 | [skill-time-series-analysis](https://github.com/quantskills/skill-time-series-analysis) | 面向时间序列分析任务的 Skill，聚焦时间序列特征检查、统计诊断与研究流程组织。 |
 | [skill-xingtai-catcher](https://github.com/quantskills/skill-xingtai-catcher) | 用文字描述、K 线截图或手绘走势，在 A 股和期货里查找相似形态，并返回候选标的、评分与结果页。 |
 | [skill-x-trader-builder](https://github.com/quantskills/skill-x-trader-builder) | 把任意 X/Twitter 公开交易员的发帖历史，加工成 trader 专属的研究模型 Skill：init-run → 采集 → extract → auto-review → split → evaluate → template → report 九步流水线，从噪... |
+| [skill-alpha-a06-hotmoney-reversal](https://github.com/quantskills/skill-alpha-a06-hotmoney-reversal) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [skill-build-b10-factor-evaluation](https://github.com/quantskills/skill-build-b10-factor-evaluation) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [skill-quant-research-replication](https://github.com/quantskills/skill-quant-research-replication) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
 
 </details>
 
@@ -117,6 +120,7 @@ mindmap
 | [agent-quantspace](https://github.com/quantskills/agent-quantspace) | 面向 AI 编码代理的量化研究框架，组织数据、技能、策略、回测和报告工作流。 |
 | [agent-template](https://github.com/quantskills/agent-template) | QUANTSKILLS 的 agent-* 模板仓库，用于初始化带 AGENTS.md、README 与基础适配文件的 Agent 项目。 |
 | [agent-for-liangshuyuan-tasks](https://github.com/quantskills/agent-for-liangshuyuan-tasks) | 量枢学院多 Agent 协作框架，支持任务需求分析、路由、开发、测试和发布流程自动化。 |
+| [agent-ssquant](https://github.com/quantskills/agent-ssquant) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
 
 ## 🚀 如何参与
 
@@ -279,7 +283,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | Options volatility analyst skill for option chains, implied volatility, realized volatility, IV percentiles, term structure, skew, and volatility-premium reports. |
 
 <details>
-<summary>Show more: remaining 32 Skill repositories</summary>
+<summary>Show more: remaining 35 Skill repositories</summary>
 
 | Repository | One-line summary |
 |---|---|
@@ -315,6 +319,9 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-time-series-analysis](https://github.com/quantskills/skill-time-series-analysis) | Time-series analysis skill focused on feature inspection, statistical diagnostics, and research workflow organization. |
 | [skill-xingtai-catcher](https://github.com/quantskills/skill-xingtai-catcher) | Pattern-search skill for finding similar A-share stock and futures K-line setups from text, screenshots, or hand drawings, with scored candidates and result links. |
 | [skill-x-trader-builder](https://github.com/quantskills/skill-x-trader-builder) | Skill-builder workflow for turning public X/Twitter data and user materials into trader-specific research-model skills. |
+| [skill-alpha-a06-hotmoney-reversal](https://github.com/quantskills/skill-alpha-a06-hotmoney-reversal) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [skill-build-b10-factor-evaluation](https://github.com/quantskills/skill-build-b10-factor-evaluation) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [skill-quant-research-replication](https://github.com/quantskills/skill-quant-research-replication) | QuantSkills community project; maintainers should add an accurate one-line summary. |
 
 </details>
 
@@ -331,6 +338,7 @@ This table mirrors the Agent asset directory in [registry/INDEX.md](https://gith
 | [agent-quantspace](https://github.com/quantskills/agent-quantspace) | AI-native quantitative research framework for reusable skills, strategy workflows, backtests, and reports. |
 | [agent-template](https://github.com/quantskills/agent-template) | Template repository for initializing QuantSkills agent projects with AGENTS.md, README files, and baseline adapters. |
 | [agent-for-liangshuyuan-tasks](https://github.com/quantskills/agent-for-liangshuyuan-tasks) | Multi-agent collaboration framework for Liangshu Academy tasks, covering analysis, routing, development, testing, and publishing workflows. |
+| [agent-ssquant](https://github.com/quantskills/agent-ssquant) | QuantSkills community project; maintainers should add an accurate one-line summary. |
 
 ## 🚀 How to Participate
 
