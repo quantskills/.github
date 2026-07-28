@@ -65,7 +65,7 @@ mindmap
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | 期权波动率分析：期权链快照、隐含波动率、历史/实现波动率、IV 分位、期限结构、偏度与波动率溢价报告。 |
 
 <details>
-<summary>显示更多：剩余 100 个 Skill 仓库</summary>
+<summary>显示更多：剩余 101 个 Skill 仓库</summary>
 
 | 仓库 | 一句话说明 |
 |---|---|
@@ -169,6 +169,7 @@ mindmap
 | [skill-us-sector-rotation](https://github.com/quantskills/skill-us-sector-rotation) | Community Draft: US equity sector return, valuation, and rotation research monitor. |
 | [skill-commodity-brief](https://github.com/quantskills/skill-commodity-brief) | 生成大宗商品简报，数据来源为 Pandadata 期货接口、开放 API、分析师研报、雅虎财经等，输出为中文 Markdown 简报。 |
 | [skill-oil-brief](https://github.com/quantskills/skill-oil-brief) | 生成原油简报，数据来源为 Pandadata 期货接口、美国能源信息署（EIA）开放 API、OPEC 月度报告、雅虎财经等，输出为中文 Markdown 简报。 |
+| [skill-hk-us-consensus-revision-radar](https://github.com/quantskills/skill-hk-us-consensus-revision-radar) | Hong Kong & US Consensus Revision Radar: Uses PandaData to analyze target prices, ratings, price divergence, analyst coverage, and revision trajectories, generating auditable offline HTML research reports. |
 
 </details>
 
@@ -348,7 +349,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | Options volatility analyst skill for option chains, implied volatility, realized volatility, IV percentiles, term structure, skew, and volatility-premium reports. |
 
 <details>
-<summary>Show more: remaining 100 Skill repositories</summary>
+<summary>Show more: remaining 101 Skill repositories</summary>
 
 | Repository | One-line summary |
 |---|---|
@@ -452,6 +453,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-us-sector-rotation](https://github.com/quantskills/skill-us-sector-rotation) | Community Draft: US equity sector return, valuation, and rotation research monitor. |
 | [skill-commodity-brief](https://github.com/quantskills/skill-commodity-brief) | 生成大宗商品简报，数据来源为 Pandadata 期货接口、开放 API、分析师研报、雅虎财经等，输出为中文 Markdown 简报。 |
 | [skill-oil-brief](https://github.com/quantskills/skill-oil-brief) | 生成原油简报，数据来源为 Pandadata 期货接口、美国能源信息署（EIA）开放 API、OPEC 月度报告、雅虎财经等，输出为中文 Markdown 简报。 |
+| [skill-hk-us-consensus-revision-radar](https://github.com/quantskills/skill-hk-us-consensus-revision-radar) | Hong Kong & US Consensus Revision Radar: Uses PandaData to analyze target prices, ratings, price divergence, analyst coverage, and revision trajectories, generating auditable offline HTML research reports. |
 
 </details>
 
