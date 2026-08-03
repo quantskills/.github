@@ -65,7 +65,7 @@ mindmap
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | 期权波动率分析：期权链快照、隐含波动率、历史/实现波动率、IV 分位、期限结构、偏度与波动率溢价报告。 |
 
 <details>
-<summary>显示更多：剩余 103 个 Skill 仓库</summary>
+<summary>显示更多：剩余 105 个 Skill 仓库</summary>
 
 | 仓库 | 一句话说明 |
 |---|---|
@@ -172,6 +172,8 @@ mindmap
 | [skill-hk-us-consensus-revision-radar](https://github.com/quantskills/skill-hk-us-consensus-revision-radar) | Hong Kong & US Consensus Revision Radar: Uses PandaData to analyze target prices, ratings, price divergence, analyst coverage, and revision trajectories, generating auditable offline HTML research reports. |
 | [skill-factor-grouped-wrapper](https://github.com/quantskills/skill-factor-grouped-wrapper) | 通过分组贪心wrapper，迭代删除或加入因子，并以模型训练和回测表现筛选最优因子池。 |
 | [skill-factor-mining-pandaai](https://github.com/quantskills/skill-factor-mining-pandaai) | Community skill for extracting paper-derived quant factors and analyzing them with PandaAI |
+| [skill-audit-opinion-scanner](https://github.com/quantskills/skill-audit-opinion-scanner) | 从审计意见、财务报表、行业对标三个维度对 A 股做全面财务健康评估。涵盖审计意见扫描、25项财务科目缓存、15项比率计算、行业分类对标、5维快速评分、8段深度分析、综合风险检测。 |
+| [skill-dl-gnn-stock-graph](https://github.com/quantskills/skill-dl-gnn-stock-graph) | 当需要对 A 股市场进行 GNN 量化选股时，使用此 skill。支持多层异构图（申万 L1/L2/L3 行业 + 概念板块 + 机构持仓 + DTW 形态相似 + Pearson 相关性）构建、GATs_ts 与 MF-IAMGCN 双模型架构、五维特征工程（量价/基本面/情绪/宏观/关系）、TopK 选股策略、完整 A 股回测引擎（含 T+1/涨跌停/佣金+印花税+滑点模拟）。 |
 
 </details>
 
@@ -189,6 +191,7 @@ mindmap
 | [agent-template](https://github.com/quantskills/agent-template) | QUANTSKILLS 的 agent-* 模板仓库，用于初始化带 AGENTS.md、README 与基础适配文件的 Agent 项目。 |
 | [agent-for-liangshuyuan-tasks](https://github.com/quantskills/agent-for-liangshuyuan-tasks) | 量枢学院多 Agent 协作框架，支持任务需求分析、路由、开发、测试和发布流程自动化。 |
 | [agent-ssquant](https://github.com/quantskills/agent-ssquant) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [agent-macro-driven-rotation](https://github.com/quantskills/agent-macro-driven-rotation) | 宏观驱动行业轮动 Agent |
 
 ## 🚀 如何参与
 
@@ -351,7 +354,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | Options volatility analyst skill for option chains, implied volatility, realized volatility, IV percentiles, term structure, skew, and volatility-premium reports. |
 
 <details>
-<summary>Show more: remaining 103 Skill repositories</summary>
+<summary>Show more: remaining 105 Skill repositories</summary>
 
 | Repository | One-line summary |
 |---|---|
@@ -458,6 +461,8 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-hk-us-consensus-revision-radar](https://github.com/quantskills/skill-hk-us-consensus-revision-radar) | Hong Kong & US Consensus Revision Radar: Uses PandaData to analyze target prices, ratings, price divergence, analyst coverage, and revision trajectories, generating auditable offline HTML research reports. |
 | [skill-factor-grouped-wrapper](https://github.com/quantskills/skill-factor-grouped-wrapper) | 通过分组贪心wrapper，迭代删除或加入因子，并以模型训练和回测表现筛选最优因子池。 |
 | [skill-factor-mining-pandaai](https://github.com/quantskills/skill-factor-mining-pandaai) | Community skill for extracting paper-derived quant factors and analyzing them with PandaAI |
+| [skill-audit-opinion-scanner](https://github.com/quantskills/skill-audit-opinion-scanner) | 从审计意见、财务报表、行业对标三个维度对 A 股做全面财务健康评估。涵盖审计意见扫描、25项财务科目缓存、15项比率计算、行业分类对标、5维快速评分、8段深度分析、综合风险检测。 |
+| [skill-dl-gnn-stock-graph](https://github.com/quantskills/skill-dl-gnn-stock-graph) | 当需要对 A 股市场进行 GNN 量化选股时，使用此 skill。支持多层异构图（申万 L1/L2/L3 行业 + 概念板块 + 机构持仓 + DTW 形态相似 + Pearson 相关性）构建、GATs_ts 与 MF-IAMGCN 双模型架构、五维特征工程（量价/基本面/情绪/宏观/关系）、TopK 选股策略、完整 A 股回测引擎（含 T+1/涨跌停/佣金+印花税+滑点模拟）。 |
 
 </details>
 
@@ -475,6 +480,7 @@ This table mirrors the Agent asset directory in [registry/INDEX.md](https://gith
 | [agent-template](https://github.com/quantskills/agent-template) | Template repository for initializing QuantSkills agent projects with AGENTS.md, README files, and baseline adapters. |
 | [agent-for-liangshuyuan-tasks](https://github.com/quantskills/agent-for-liangshuyuan-tasks) | Multi-agent collaboration framework for Liangshu Academy tasks, covering analysis, routing, development, testing, and publishing workflows. |
 | [agent-ssquant](https://github.com/quantskills/agent-ssquant) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [agent-macro-driven-rotation](https://github.com/quantskills/agent-macro-driven-rotation) | 宏观驱动行业轮动 Agent |
 
 ## 🚀 How to Participate
 
