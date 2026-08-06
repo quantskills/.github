@@ -65,7 +65,7 @@ mindmap
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | 期权波动率分析：期权链快照、隐含波动率、历史/实现波动率、IV 分位、期限结构、偏度与波动率溢价报告。 |
 
 <details>
-<summary>显示更多：剩余 106 个 Skill 仓库</summary>
+<summary>显示更多：剩余 116 个 Skill 仓库</summary>
 
 | 仓库 | 一句话说明 |
 |---|---|
@@ -175,6 +175,16 @@ mindmap
 | [skill-dl-gnn-stock-graph](https://github.com/quantskills/skill-dl-gnn-stock-graph) | 当需要对 A 股市场进行 GNN 量化选股时，使用此 skill。支持多层异构图（申万 L1/L2/L3 行业 + 概念板块 + 机构持仓 + DTW 形态相似 + Pearson 相关性）构建、GATs_ts 与 MF-IAMGCN 双模型架构、五维特征工程（量价/基本面/情绪/宏观/关系）、TopK 选股策略、完整 A 股回测引擎（含 T+1/涨跌停/佣金+印花税+滑点模拟）。 |
 | [skill-a-share-pit-fundamental-vintage-builder](https://github.com/quantskills/skill-a-share-pit-fundamental-vintage-builder) | A 股 PIT 财务数据审计：**还原历史可见财报，而非使用今天的最新版。 |
 | [skill-pandaai-factor-online](https://github.com/quantskills/skill-pandaai-factor-online) | PandaAI 因子大赛上手与在线挖掘技能：环境体检、登录、字段算子速查、可续跑批量回测与成本折算复盘 · Onboarding and online factor mining for PandaAI |
+| [skill-ag-futures-seasonality](https://github.com/quantskills/skill-ag-futures-seasonality) | 农产品期货月度季节性分析工具:算清各月历史涨跌规律与显著性,叠加作物日历,出可视化报告。 |
+| [skill-capital-flow-crowding-monitor](https://github.com/quantskills/skill-capital-flow-crowding-monitor) | 跨市场资金面/拥挤监测：融资融券+北向持股+大宗交易三源聚合，一致性/背离信号 + 拥挤度历史分位 |
+| [skill-commodity-carry-cta](https://github.com/quantskills/skill-commodity-carry-cta) | 商品期货横截面 CTA 因子库：carry/时序动量/横截面动量/基差动量/库存，主连接续 + 多空品种轮动回测 |
+| [skill-etf-arbitrage-monitor](https://github.com/quantskills/skill-etf-arbitrage-monitor) | ETF 一二级套利/折溢价监控：IOPV vs 二级价折溢价、申赎篮子可行性、套利方向与扣费毛收益 |
+| [skill-ml-factor-ensemble](https://github.com/quantskills/skill-ml-factor-ensemble) | ML 因子集成：LightGBM/ElasticNet/Ridge + Purged & Embargoed 滚动 walk-forward 防泄漏，OOS 元信号 |
+| [skill-option-strategy-builder](https://github.com/quantskills/skill-option-strategy-builder) | 期权策略构建器：7 种结构（垂直价差/跨式/宽跨式/领口/日历/备兑/自定义）选腿+损益图+盈亏平衡+净希腊字母+保证金，BS 用 math.erf 纯标准库补算 |
+| [skill-portfolio-attribution](https://github.com/quantskills/skill-portfolio-attribution) | 把主动收益分解为行业配置、个股选择、交互效应（Brinson-Fachler + Carino 多期链接）与因子贡献 |
+| [skill-regulatory-risk-radar](https://github.com/quantskills/skill-regulatory-risk-radar) | A股合规/监管风险雷达：解禁·减持·质押·举牌·冻结·停牌·ST 七类风险聚合分级 |
+| [skill-strategy-tearsheet-report](https://github.com/quantskills/skill-strategy-tearsheet-report) | 策略绩效 tearsheet：全套风险调整指标 + 自包含 HTML 看板 |
+| [skill-transaction-cost-analysis](https://github.com/quantskills/skill-transaction-cost-analysis) | 交易成本分析(TCA)：implementation shortfall 五项分解 + VWAP/TWAP/arrival 对标 |
 
 </details>
 
@@ -355,7 +365,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | Options volatility analyst skill for option chains, implied volatility, realized volatility, IV percentiles, term structure, skew, and volatility-premium reports. |
 
 <details>
-<summary>Show more: remaining 106 Skill repositories</summary>
+<summary>Show more: remaining 116 Skill repositories</summary>
 
 | Repository | One-line summary |
 |---|---|
@@ -465,6 +475,16 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-dl-gnn-stock-graph](https://github.com/quantskills/skill-dl-gnn-stock-graph) | 当需要对 A 股市场进行 GNN 量化选股时，使用此 skill。支持多层异构图（申万 L1/L2/L3 行业 + 概念板块 + 机构持仓 + DTW 形态相似 + Pearson 相关性）构建、GATs_ts 与 MF-IAMGCN 双模型架构、五维特征工程（量价/基本面/情绪/宏观/关系）、TopK 选股策略、完整 A 股回测引擎（含 T+1/涨跌停/佣金+印花税+滑点模拟）。 |
 | [skill-a-share-pit-fundamental-vintage-builder](https://github.com/quantskills/skill-a-share-pit-fundamental-vintage-builder) | A 股 PIT 财务数据审计：**还原历史可见财报，而非使用今天的最新版。 |
 | [skill-pandaai-factor-online](https://github.com/quantskills/skill-pandaai-factor-online) | PandaAI 因子大赛上手与在线挖掘技能：环境体检、登录、字段算子速查、可续跑批量回测与成本折算复盘 · Onboarding and online factor mining for PandaAI |
+| [skill-ag-futures-seasonality](https://github.com/quantskills/skill-ag-futures-seasonality) | 农产品期货月度季节性分析工具:算清各月历史涨跌规律与显著性,叠加作物日历,出可视化报告。 |
+| [skill-capital-flow-crowding-monitor](https://github.com/quantskills/skill-capital-flow-crowding-monitor) | 跨市场资金面/拥挤监测：融资融券+北向持股+大宗交易三源聚合，一致性/背离信号 + 拥挤度历史分位 |
+| [skill-commodity-carry-cta](https://github.com/quantskills/skill-commodity-carry-cta) | 商品期货横截面 CTA 因子库：carry/时序动量/横截面动量/基差动量/库存，主连接续 + 多空品种轮动回测 |
+| [skill-etf-arbitrage-monitor](https://github.com/quantskills/skill-etf-arbitrage-monitor) | ETF 一二级套利/折溢价监控：IOPV vs 二级价折溢价、申赎篮子可行性、套利方向与扣费毛收益 |
+| [skill-ml-factor-ensemble](https://github.com/quantskills/skill-ml-factor-ensemble) | ML 因子集成：LightGBM/ElasticNet/Ridge + Purged & Embargoed 滚动 walk-forward 防泄漏，OOS 元信号 |
+| [skill-option-strategy-builder](https://github.com/quantskills/skill-option-strategy-builder) | 期权策略构建器：7 种结构（垂直价差/跨式/宽跨式/领口/日历/备兑/自定义）选腿+损益图+盈亏平衡+净希腊字母+保证金，BS 用 math.erf 纯标准库补算 |
+| [skill-portfolio-attribution](https://github.com/quantskills/skill-portfolio-attribution) | 把主动收益分解为行业配置、个股选择、交互效应（Brinson-Fachler + Carino 多期链接）与因子贡献 |
+| [skill-regulatory-risk-radar](https://github.com/quantskills/skill-regulatory-risk-radar) | A股合规/监管风险雷达：解禁·减持·质押·举牌·冻结·停牌·ST 七类风险聚合分级 |
+| [skill-strategy-tearsheet-report](https://github.com/quantskills/skill-strategy-tearsheet-report) | 策略绩效 tearsheet：全套风险调整指标 + 自包含 HTML 看板 |
+| [skill-transaction-cost-analysis](https://github.com/quantskills/skill-transaction-cost-analysis) | 交易成本分析(TCA)：implementation shortfall 五项分解 + VWAP/TWAP/arrival 对标 |
 
 </details>
 
