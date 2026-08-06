@@ -65,7 +65,7 @@ mindmap
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | 期权波动率分析：期权链快照、隐含波动率、历史/实现波动率、IV 分位、期限结构、偏度与波动率溢价报告。 |
 
 <details>
-<summary>显示更多：剩余 107 个 Skill 仓库</summary>
+<summary>显示更多：剩余 106 个 Skill 仓库</summary>
 
 | 仓库 | 一句话说明 |
 |---|---|
@@ -147,7 +147,6 @@ mindmap
 | [skill-munger-mental-model](https://github.com/quantskills/skill-munger-mental-model) | Munger 5-维模型与一票否决的多角度cross-validation分析工具，面向 A 股。支持单票和行业批筛。 |
 | [skill-news-sentiment-analyst](https://github.com/quantskills/skill-news-sentiment-analyst) | A-share financial news sentiment analyst - Claude Code Skill |
 | [skill-simons-pairs-trading](https://github.com/quantskills/skill-simons-pairs-trading) | Screen and audit reproducible, research-only A-share pairs with adjusted PandaData prices, same-industry Engle-Granger tests, Benjamini-Hochberg FDR,... |
-| [skill-templeton-global-contrarian](https://github.com/quantskills/skill-templeton-global-contrarian) | John Templeton 逆向全球价值因子技能。A股/港股/美股跨市场价值筛选，基于估值偏离度识别极端低估/高估机会，生成 buy/sell/hold 信号。 |
 | [skill-residual-guided-factor-selection](https://github.com/quantskills/skill-residual-guided-factor-selection) | 基于样本外残差IC和LightGBM增量重训练，筛选具有互补信息的候选因子 |
 | [skill-buyback-monitor](https://github.com/quantskills/skill-buyback-monitor) | Community Draft: A-share buyback lifecycle, purpose, and intensity research monitor. |
 | [skill-concept-rotation-monitor](https://github.com/quantskills/skill-concept-rotation-monitor) | Community Draft: A-share concept and theme momentum, breadth, and rotation monitor. |
@@ -356,7 +355,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | Options volatility analyst skill for option chains, implied volatility, realized volatility, IV percentiles, term structure, skew, and volatility-premium reports. |
 
 <details>
-<summary>Show more: remaining 107 Skill repositories</summary>
+<summary>Show more: remaining 106 Skill repositories</summary>
 
 | Repository | One-line summary |
 |---|---|
@@ -438,7 +437,6 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-munger-mental-model](https://github.com/quantskills/skill-munger-mental-model) | Munger 5-维模型与一票否决的多角度cross-validation分析工具，面向 A 股。支持单票和行业批筛。 |
 | [skill-news-sentiment-analyst](https://github.com/quantskills/skill-news-sentiment-analyst) | A-share financial news sentiment analyst - Claude Code Skill |
 | [skill-simons-pairs-trading](https://github.com/quantskills/skill-simons-pairs-trading) | Screen and audit reproducible, research-only A-share pairs with adjusted PandaData prices, same-industry Engle-Granger tests, Benjamini-Hochberg FDR, formation-only clustering, rolling backtests, conservative gates, and... |
-| [skill-templeton-global-contrarian](https://github.com/quantskills/skill-templeton-global-contrarian) | John Templeton 逆向全球价值因子技能。A股/港股/美股跨市场价值筛选，基于估值偏离度识别极端低估/高估机会，生成 buy/sell/hold 信号。 |
 | [skill-residual-guided-factor-selection](https://github.com/quantskills/skill-residual-guided-factor-selection) | 基于样本外残差IC和LightGBM增量重训练，筛选具有互补信息的候选因子 |
 | [skill-buyback-monitor](https://github.com/quantskills/skill-buyback-monitor) | Community Draft: A-share buyback lifecycle, purpose, and intensity research monitor. |
 | [skill-concept-rotation-monitor](https://github.com/quantskills/skill-concept-rotation-monitor) | Community Draft: A-share concept and theme momentum, breadth, and rotation monitor. |
