@@ -65,7 +65,7 @@ mindmap
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | 期权波动率分析：期权链快照、隐含波动率、历史/实现波动率、IV 分位、期限结构、偏度与波动率溢价报告。 |
 
 <details>
-<summary>显示更多：剩余 116 个 Skill 仓库</summary>
+<summary>显示更多：剩余 135 个 Skill 仓库</summary>
 
 | 仓库 | 一句话说明 |
 |---|---|
@@ -185,6 +185,25 @@ mindmap
 | [skill-regulatory-risk-radar](https://github.com/quantskills/skill-regulatory-risk-radar) | A股合规/监管风险雷达：解禁·减持·质押·举牌·冻结·停牌·ST 七类风险聚合分级 |
 | [skill-strategy-tearsheet-report](https://github.com/quantskills/skill-strategy-tearsheet-report) | 策略绩效 tearsheet：全套风险调整指标 + 自包含 HTML 看板 |
 | [skill-transaction-cost-analysis](https://github.com/quantskills/skill-transaction-cost-analysis) | 交易成本分析(TCA)：implementation shortfall 五项分解 + VWAP/TWAP/arrival 对标 |
+| [skill-a-share-market-risk-radar](https://github.com/quantskills/skill-a-share-market-risk-radar) | A股市场风险雷达：监测技术面、资金流、宏观环境、解禁与行业轮动等市场风险 |
+| [skill-backtesting-bias-avoidance](https://github.com/quantskills/skill-backtesting-bias-avoidance) | 回测引擎构建与偏差规避Build a correct, look-ahead-free backtest and audit a strategy for the   biases that make backtests lie — look-ahead bias, survivorship bias, overfitting   and data-snooping — while modeling realistic transaction costs and validating with   out-of-sample and walk-forward testing and a full set of performance metrics. |
+| [skill-cb-analyzer](https://github.com/quantskills/skill-cb-analyzer) | A-share convertible bond daily analyzer: double-low strategy + Black-Scholes Greeks + IC backtest |
+| [skill-daily-report](https://github.com/quantskills/skill-daily-report) | 是一个跨市场每日复盘技能，用于汇总 A 股、港股、美股、日经、韩国市场以及黄金、原油等公开行情数据，并结合板块表现、资金流向和重要新闻，生成结构化的 Markdown 市场复盘报告和次日情景分析。 |
+| [skill-etf-fund-evaluator](https://github.com/quantskills/skill-etf-fund-evaluator) | 境内股票指数ETF评价与同类比较：分析跟踪质量、风险收益、流动性、规模和资金流 |
+| [skill-forecast-calibration-audit](https://github.com/quantskills/skill-forecast-calibration-audit) | skill评估概率预测的可靠性、Brier Score、Log Loss、ECE/MCE、校准斜率和时间漂移，区别于已有的因子 IC 评估和盈利预告扫描 |
+| [skill-keynes-contrarian-investment](https://github.com/quantskills/skill-keynes-contrarian-investment) | 凯恩斯长期预期与反共识投资研究：识别过度乐观、过度悲观、预期差及价值陷阱 |
+| [skill-ma-crossover-signal](https://github.com/quantskills/skill-ma-crossover-signal) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [skill-northbound-margin-monitor](https://github.com/quantskills/skill-northbound-margin-monitor) | A-share northbound capital + margin trading + futures panorama monitor with 25 signal detectors |
+| [skill-oversold-rebound](https://github.com/quantskills/skill-oversold-rebound) | A股超跌反弹择时与选股：判断短期反弹环境并筛选候选股票 |
+| [skill-pair-correlation](https://github.com/quantskills/skill-pair-correlation) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [skill-portfolio-pnl-attribution](https://github.com/quantskills/skill-portfolio-pnl-attribution) | skill 收益归因：证券贡献、行业贡献、费用、基准和主动收益，并做日度 P&L 对账 |
+| [skill-post-market-screener](https://github.com/quantskills/skill-post-market-screener) | Daily A-share post-market screener: 8 technical pattern detectors x capital inflow filter with LLM analysis |
+| [skill-quant-execution-microstructure](https://github.com/quantskills/skill-quant-execution-microstructure) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [skill-quant-portfolio-risk](https://github.com/quantskills/skill-quant-portfolio-risk) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [skill-quant-research](https://github.com/quantskills/skill-quant-research) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [skill-risk-return-metrics](https://github.com/quantskills/skill-risk-return-metrics) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [skill-statistical-arbitrage-time-series](https://github.com/quantskills/skill-statistical-arbitrage-time-series) | 统计套利与时间序列建模 Generate a sourced, reproducible statistical-arbitrage research dossier   from a candidate pair, basket, or asset universe, covering data preparation, pair   selection, cointegration and stationarity testing (train-window ADF + KPSS), spread   modeling with hedge-ratio stability, mean-reversion estimation, z-score signal   construction |
+| [skill-transaction-cost-calibration](https://github.com/quantskills/skill-transaction-cost-calibration) | skill基于成交、历史盘口或 OHLCV 校准手续费、点差、滑点和参与率冲击成本，区别于已有的组合流动性压力测试 |
 
 </details>
 
@@ -365,7 +384,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | Options volatility analyst skill for option chains, implied volatility, realized volatility, IV percentiles, term structure, skew, and volatility-premium reports. |
 
 <details>
-<summary>Show more: remaining 116 Skill repositories</summary>
+<summary>Show more: remaining 135 Skill repositories</summary>
 
 | Repository | One-line summary |
 |---|---|
@@ -485,6 +504,25 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-regulatory-risk-radar](https://github.com/quantskills/skill-regulatory-risk-radar) | A股合规/监管风险雷达：解禁·减持·质押·举牌·冻结·停牌·ST 七类风险聚合分级 |
 | [skill-strategy-tearsheet-report](https://github.com/quantskills/skill-strategy-tearsheet-report) | 策略绩效 tearsheet：全套风险调整指标 + 自包含 HTML 看板 |
 | [skill-transaction-cost-analysis](https://github.com/quantskills/skill-transaction-cost-analysis) | 交易成本分析(TCA)：implementation shortfall 五项分解 + VWAP/TWAP/arrival 对标 |
+| [skill-a-share-market-risk-radar](https://github.com/quantskills/skill-a-share-market-risk-radar) | A股市场风险雷达：监测技术面、资金流、宏观环境、解禁与行业轮动等市场风险 |
+| [skill-backtesting-bias-avoidance](https://github.com/quantskills/skill-backtesting-bias-avoidance) | 回测引擎构建与偏差规避Build a correct, look-ahead-free backtest and audit a strategy for the   biases that make backtests lie — look-ahead bias, survivorship bias, overfitting   and data-snooping — while modeling realistic transaction costs and validating with   out-of-sample and walk-forward testing and a full set of performance metrics. |
+| [skill-cb-analyzer](https://github.com/quantskills/skill-cb-analyzer) | A-share convertible bond daily analyzer: double-low strategy + Black-Scholes Greeks + IC backtest |
+| [skill-daily-report](https://github.com/quantskills/skill-daily-report) | 是一个跨市场每日复盘技能，用于汇总 A 股、港股、美股、日经、韩国市场以及黄金、原油等公开行情数据，并结合板块表现、资金流向和重要新闻，生成结构化的 Markdown 市场复盘报告和次日情景分析。 |
+| [skill-etf-fund-evaluator](https://github.com/quantskills/skill-etf-fund-evaluator) | 境内股票指数ETF评价与同类比较：分析跟踪质量、风险收益、流动性、规模和资金流 |
+| [skill-forecast-calibration-audit](https://github.com/quantskills/skill-forecast-calibration-audit) | skill评估概率预测的可靠性、Brier Score、Log Loss、ECE/MCE、校准斜率和时间漂移，区别于已有的因子 IC 评估和盈利预告扫描 |
+| [skill-keynes-contrarian-investment](https://github.com/quantskills/skill-keynes-contrarian-investment) | 凯恩斯长期预期与反共识投资研究：识别过度乐观、过度悲观、预期差及价值陷阱 |
+| [skill-ma-crossover-signal](https://github.com/quantskills/skill-ma-crossover-signal) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [skill-northbound-margin-monitor](https://github.com/quantskills/skill-northbound-margin-monitor) | A-share northbound capital + margin trading + futures panorama monitor with 25 signal detectors |
+| [skill-oversold-rebound](https://github.com/quantskills/skill-oversold-rebound) | A股超跌反弹择时与选股：判断短期反弹环境并筛选候选股票 |
+| [skill-pair-correlation](https://github.com/quantskills/skill-pair-correlation) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [skill-portfolio-pnl-attribution](https://github.com/quantskills/skill-portfolio-pnl-attribution) | skill 收益归因：证券贡献、行业贡献、费用、基准和主动收益，并做日度 P&L 对账 |
+| [skill-post-market-screener](https://github.com/quantskills/skill-post-market-screener) | Daily A-share post-market screener: 8 technical pattern detectors x capital inflow filter with LLM analysis |
+| [skill-quant-execution-microstructure](https://github.com/quantskills/skill-quant-execution-microstructure) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [skill-quant-portfolio-risk](https://github.com/quantskills/skill-quant-portfolio-risk) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [skill-quant-research](https://github.com/quantskills/skill-quant-research) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [skill-risk-return-metrics](https://github.com/quantskills/skill-risk-return-metrics) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [skill-statistical-arbitrage-time-series](https://github.com/quantskills/skill-statistical-arbitrage-time-series) | 统计套利与时间序列建模 Generate a sourced, reproducible statistical-arbitrage research dossier   from a candidate pair, basket, or asset universe, covering data preparation, pair   selection, cointegration and stationarity testing (train-window ADF + KPSS), spread   modeling with hedge-ratio stability, mean-reversion estimation, z-score signal   construction |
+| [skill-transaction-cost-calibration](https://github.com/quantskills/skill-transaction-cost-calibration) | skill基于成交、历史盘口或 OHLCV 校准手续费、点差、滑点和参与率冲击成本，区别于已有的组合流动性压力测试 |
 
 </details>
 
