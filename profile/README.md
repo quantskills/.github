@@ -65,7 +65,7 @@ mindmap
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | 期权波动率分析：期权链快照、隐含波动率、历史/实现波动率、IV 分位、期限结构、偏度与波动率溢价报告。 |
 
 <details>
-<summary>显示更多：剩余 135 个 Skill 仓库</summary>
+<summary>显示更多：剩余 143 个 Skill 仓库</summary>
 
 | 仓库 | 一句话说明 |
 |---|---|
@@ -204,6 +204,14 @@ mindmap
 | [skill-risk-return-metrics](https://github.com/quantskills/skill-risk-return-metrics) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
 | [skill-statistical-arbitrage-time-series](https://github.com/quantskills/skill-statistical-arbitrage-time-series) | 统计套利与时间序列建模 Generate a sourced, reproducible statistical-arbitrage research dossier   from a candidate pair, basket, or asset universe, covering data preparation, pair   selection, cointegration and stationarity testing (train-window ADF + KPSS), spread   modeling with hedge-ratio stability, mean-reversion estimation, z-score signal   construction |
 | [skill-transaction-cost-calibration](https://github.com/quantskills/skill-transaction-cost-calibration) | skill基于成交、历史盘口或 OHLCV 校准手续费、点差、滑点和参与率冲击成本，区别于已有的组合流动性压力测试 |
+| [skill-brinson-performance-attribution](https://github.com/quantskills/skill-brinson-performance-attribution) | Brinson-Fachler / BHB 归因 + Carino 多期链接 |
+| [skill-buffett-moat-screener](https://github.com/quantskills/skill-buffett-moat-screener) | 面向 A 股与美股的巴菲特式研究 Skill：研究建议、持仓复核、年度记录与点时回测。 |
+| [skill-calendar-anomaly-scanner](https://github.com/quantskills/skill-calendar-anomaly-scanner) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [skill-klarman-special-situations](https://github.com/quantskills/skill-klarman-special-situations) | 基于克拉曼特殊情况投资框架的 A 股事件驱动研究 Skill，覆盖定增解禁、重组借壳、分拆上市与困境反转；强调证据核验、失败价值与风险边界。 |
+| [skill-quant-research-experiment-registry](https://github.com/quantskills/skill-quant-research-experiment-registry) | Quantitative research experiment registry and reproducibility audit skill. |
+| [skill-rolling-beta-exposure](https://github.com/quantskills/skill-rolling-beta-exposure) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [skill-signal-stability-audit](https://github.com/quantskills/skill-signal-stability-audit) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
+| [skill-walk-forward-validator](https://github.com/quantskills/skill-walk-forward-validator) | QuantSkills 社区项目；请维护者补充准确、克制的一句话说明。 |
 
 </details>
 
@@ -384,7 +392,7 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-options-vol-analyst](https://github.com/quantskills/skill-options-vol-analyst) | Options volatility analyst skill for option chains, implied volatility, realized volatility, IV percentiles, term structure, skew, and volatility-premium reports. |
 
 <details>
-<summary>Show more: remaining 135 Skill repositories</summary>
+<summary>Show more: remaining 143 Skill repositories</summary>
 
 | Repository | One-line summary |
 |---|---|
@@ -523,6 +531,14 @@ This table mirrors the Skill asset directory in [registry/INDEX.md](https://gith
 | [skill-risk-return-metrics](https://github.com/quantskills/skill-risk-return-metrics) | QuantSkills community project; maintainers should add an accurate one-line summary. |
 | [skill-statistical-arbitrage-time-series](https://github.com/quantskills/skill-statistical-arbitrage-time-series) | 统计套利与时间序列建模 Generate a sourced, reproducible statistical-arbitrage research dossier   from a candidate pair, basket, or asset universe, covering data preparation, pair   selection, cointegration and stationarity testing (train-window ADF + KPSS), spread   modeling with hedge-ratio stability, mean-reversion estimation, z-score signal   construction |
 | [skill-transaction-cost-calibration](https://github.com/quantskills/skill-transaction-cost-calibration) | skill基于成交、历史盘口或 OHLCV 校准手续费、点差、滑点和参与率冲击成本，区别于已有的组合流动性压力测试 |
+| [skill-brinson-performance-attribution](https://github.com/quantskills/skill-brinson-performance-attribution) | Brinson-Fachler / BHB 归因 + Carino 多期链接 |
+| [skill-buffett-moat-screener](https://github.com/quantskills/skill-buffett-moat-screener) | 面向 A 股与美股的巴菲特式研究 Skill：研究建议、持仓复核、年度记录与点时回测。 |
+| [skill-calendar-anomaly-scanner](https://github.com/quantskills/skill-calendar-anomaly-scanner) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [skill-klarman-special-situations](https://github.com/quantskills/skill-klarman-special-situations) | 基于克拉曼特殊情况投资框架的 A 股事件驱动研究 Skill，覆盖定增解禁、重组借壳、分拆上市与困境反转；强调证据核验、失败价值与风险边界。 |
+| [skill-quant-research-experiment-registry](https://github.com/quantskills/skill-quant-research-experiment-registry) | Quantitative research experiment registry and reproducibility audit skill. |
+| [skill-rolling-beta-exposure](https://github.com/quantskills/skill-rolling-beta-exposure) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [skill-signal-stability-audit](https://github.com/quantskills/skill-signal-stability-audit) | QuantSkills community project; maintainers should add an accurate one-line summary. |
+| [skill-walk-forward-validator](https://github.com/quantskills/skill-walk-forward-validator) | QuantSkills community project; maintainers should add an accurate one-line summary. |
 
 </details>
 
