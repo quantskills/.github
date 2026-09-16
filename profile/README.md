@@ -33,6 +33,20 @@ QUANTSKILLS 由 PandaAI 发起，连接中文量化开发者与全球 AI 量化�
 | 📜 社区规则 | [COMMUNITY_RULES.md](https://github.com/quantskills/join/blob/main/COMMUNITY_RULES.md) | 申请前请先阅读 |
 
 
+## 🖥️ QuantStudio · 量化研究工作台
+
+**让研究想法，走到真实交付。**
+
+[**QuantStudio**](https://github.com/quantskills/QuantStudio/tree/main) 是 QuantSkills / PandaAI 的 AI 量化研究工作台，将技能、专家、专家团、数据与研究产物集中在同一个工作空间。用自然语言描述任务，在对话中推进研究，查看和下载实际生成的报告、图表、代码与文件；支持本地运行，也可部署为团队共享工作区。
+
+<p align="center">
+  <a href="https://github.com/quantskills/QuantStudio/tree/main">
+    <img src="https://raw.githubusercontent.com/quantskills/.github/main/profile/assets/quantstudio-workbench.webp" alt="QuantStudio：QuantSkills 量化研究工作台" width="695">
+  </a>
+</p>
+
+**[查看项目与源码 →](https://github.com/quantskills/QuantStudio/tree/main)** · [快速开始](https://github.com/quantskills/QuantStudio#开始使用)
+
 ## 🧩 我们收录什么
 
 ```mermaid
